@@ -1,0 +1,14 @@
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\bin\Debug\netcoreapp3.1\Sabloane_Proiectare.exe
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\bin\Debug\netcoreapp3.1\Sabloane_Proiectare.deps.json
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\bin\Debug\netcoreapp3.1\Sabloane_Proiectare.runtimeconfig.json
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\bin\Debug\netcoreapp3.1\Sabloane_Proiectare.runtimeconfig.dev.json
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\bin\Debug\netcoreapp3.1\Sabloane_Proiectare.dll
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\bin\Debug\netcoreapp3.1\Sabloane_Proiectare.pdb
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.AssemblyInfoInputs.cache
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.AssemblyInfo.cs
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.dll
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.pdb
+C:\Users\Bucos Ion\source\repos\Sabloane_Proiectare\Sabloane_Proiectare\obj\Debug\netcoreapp3.1\Sabloane_Proiectare.genruntimeconfig.cache
