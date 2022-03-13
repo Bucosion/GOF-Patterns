@@ -1,0 +1,7 @@
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\bin\Debug\Optimized.exe.config
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\bin\Debug\Optimized.exe
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\bin\Debug\Optimized.pdb
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\obj\Debug\Optimized.exe
+C:\Users\Bucos Ion\Downloads\Builder-master\Optimized\obj\Debug\Optimized.pdb
